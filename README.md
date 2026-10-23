@@ -219,4 +219,4 @@ Terasology is offered as a full free version with all features and updates inclu
 Embark on your adventure today with Terasology! Download the complete free version now and start building your customized world!
 
 ---
-**Last updated:** 2026-10-23 10:37:48 UTC
+**Last updated:** 2026-10-23 15:30:32 UTC
